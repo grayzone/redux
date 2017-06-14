@@ -1,0 +1,8 @@
+node_modules/
+repository/
+.vscode/
+*.exe
+*.exe~
+vendor/
+yarn.lock
+redux.js
